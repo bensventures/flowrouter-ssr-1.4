@@ -1,0 +1,12 @@
+{
+  "name": "meteor-1.4-flowrouterssr",
+  "version": "0.0.0",
+  "dependencies": {
+    "babel-runtime": "^6.18.0",
+    "react": "^15.4.1",
+    "react-addons-pure-render-mixin": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-mounter": "^1.2.0"
+  },
+  "private": true
+}
